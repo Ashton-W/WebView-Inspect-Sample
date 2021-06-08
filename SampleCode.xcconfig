@@ -1,0 +1,8 @@
+//
+//  SampleCode.xcconfig
+//  WebView
+//
+//  Created by Ashton Williams on 8/6/21.
+//
+
+SAMPLE_CODE_DISAMBIGUATOR=${DEVELOPMENT_TEAM}
